@@ -1,1 +1,1 @@
-this is my readme file.
+This is an example webpage to deliver the activities.
